@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekkymulia
+- 👋 Hi, I’m @ekkymulia (he/him)
 - 👀 I’m interested in Website, Mobile and Data Science
 - 🌱 I’m currently learning Python, React, Microservices and More
 - 📫 Don't hesitate to follow, 100% will follow you back ✨
