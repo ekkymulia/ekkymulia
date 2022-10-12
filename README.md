@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekkymulia (he/him)
-- 👀 I’m interested in Website, Mobile and Data Science
+- 👀 I’m interested in Website, Mobile (next: and Data Science)
 - 🌱 I’m currently learning Python, JS, Cloud (AWS), Microservices, Devops and More
 - 📃 Current Tech stack: 
 
