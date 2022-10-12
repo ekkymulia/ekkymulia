@@ -23,6 +23,7 @@
         - Firebase
         - Gitlab/Github
         - Notion/Figma/ClickUp
+        - API
         
         
 - 📫 Don't hesitate to follow, 100% will follow you back ✨
