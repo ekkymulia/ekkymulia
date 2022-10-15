@@ -7,6 +7,7 @@
         - HTML/CSS/JS
         - Bootstrap/Tailwind
         - PHP (Codeigniter/Laravel)
+        - Jquery
         - Node JS and Express JS
         - React JS
         - Next JS
