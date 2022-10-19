@@ -17,15 +17,16 @@
         - Java
         
       Database:
-        - SQL
+        - SQL (MySQL)
         - MongoDB, Firestore
         
       else:
         - Firebase
         - Gitlab/Github
         - Notion/Figma/ClickUp
-        - API
-        - Jest
+        - API/Postman
+        - Jest/PM2
+        - AWS EC2
         
         
 - 📫 Don't hesitate to follow, 100% will follow you back ✨
