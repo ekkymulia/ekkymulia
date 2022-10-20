@@ -8,9 +8,8 @@
         - Bootstrap/Tailwind
         - PHP (Codeigniter/Laravel)
         - Jquery
-        - Node JS and Express JS
-        - React JS
-        - Next JS
+        - Node JS (Express JS, Hapi JS)
+        - React JS (React Hooks, Next JS)
         
       Android: 
         - Flutter
@@ -18,10 +17,10 @@
         
       Database:
         - SQL (MySQL)
-        - MongoDB, Firestore
+        - No SQL (MongoDB, Firestore)
         
       else:
-        - Firebase
+        - Firebase (Auth)
         - Gitlab/Github
         - Notion/Figma/ClickUp
         - API/Postman
