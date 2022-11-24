@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekkymulia (he/him)
 - 👀 I’m interested in Website, Mobile (next: and Data Science)
-- 🌱 I’m currently learning Python, JS, Cloud (AWS), Microservices, Devops and More
+- 🌱 I’m currently learning Python, JS, Microservices and More
 - 📃 Current Tech stack: 
 
       Website:
@@ -25,7 +25,8 @@
         - Notion/Figma/ClickUp
         - API/Postman
         - Jest/PM2
-        - AWS EC2
+        - AWS
+        - Devops
         
         
 - 📫 Don't hesitate to follow, 100% will follow you back ✨
