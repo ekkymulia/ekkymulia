@@ -10,6 +10,7 @@
         - Jquery
         - Node JS (Express JS, Hapi JS)
         - React JS (React Hooks, Next JS)
+        - Vue JS
         
       Android: 
         - Flutter
@@ -26,6 +27,8 @@
         - API/Postman
         - Jest/PM2
         - AWS
+        - Alibaba Cloud
+        - Polar DB
         - Devops
         
         
