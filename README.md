@@ -1,35 +1,7 @@
 - 👋 Hi, I’m @ekkymulia (he/him)
 - 👀 I’m interested in Website, Mobile (next: and Data Science)
 - 🌱 I’m currently learning Python, JS, Microservices and More
-- 📃 Current Tech stack: 
-
-      Website:
-        - HTML/CSS/JS
-        - Bootstrap/Tailwind
-        - PHP (Codeigniter/Laravel)
-        - Jquery
-        - Node JS (Express JS, Hapi JS)
-        - React JS (React Hooks, Next JS)
-        - Vue JS
-        
-      Android: 
-        - Flutter
-        - Java
-        
-      Database:
-        - SQL (MySQL)
-        - No SQL (MongoDB, Firestore)
-        
-      else:
-        - Firebase (Auth)
-        - Gitlab/Github
-        - Notion/Figma/ClickUp
-        - API/Postman
-        - Jest/PM2
-        - AWS
-        - Alibaba Cloud
-        - Polar DB
-        - Devops
+- 📃 Current Tech stack: Please refer to my Website -> https://kymulia.me
         
         
 - 📫 Don't hesitate to follow, 100% will follow you back ✨
