@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ekkymulia (he/him)
-- 👀 I’m interested in Website, Mobile (next: and Data Science)
-- 🌱 I’m currently learning Python, JS, Microservices and More
+- 👀 I’m interested in Website, AI
+- 🌱 I’m currently learning AI
 - 📃 Current Tech stack: Please refer to my Website -> https://kymulia.me
-        
+
+(update: 10/2023)
         
 - 📫 Don't hesitate to follow, 100% will follow you back ✨
 
