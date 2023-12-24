@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekkymulia (he/him)
 - 👀 I’m interested in Website, AI
 - 🌱 I’m currently learning AI
-- 📃 Current Tech stack: Please refer to my Website -> https://kymulia.me
+- 📃 Current Tech stack: Please refer to my Website -> https://kymulia.com
 
 (update: 10/2023)
         
