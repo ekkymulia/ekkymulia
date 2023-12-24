@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI
 - 📃 Current Tech stack: Please refer to my Website -> https://kymulia.com
 
-(update: 10/2023)
+(update: 12/2023)
         
 - 📫 Don't hesitate to follow, 100% will follow you back ✨
 
